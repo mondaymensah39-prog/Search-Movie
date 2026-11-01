@@ -29,5 +29,5 @@ Search  Movie/
     |-- main.js
     `-- render.js
 |-- index.html
-|--README.md
+`--README.md
 
