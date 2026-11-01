@@ -24,10 +24,10 @@ Search  Movie/
     |--background.jpg
     `--style.css
 `-- js/
-    |-- api.js
-    |-- filter.js
-    |-- main.js
-    `-- render.js
+    |-- api.js            (fetches data from the API)
+    |-- filter.js         (filters and sorts results)
+    |-- main.js           (handles ussr events amd connects everything)
+    `-- render.js         (draws cards and messages)
 |-- index.html
-`-- README.md
+|-- README.md
 
